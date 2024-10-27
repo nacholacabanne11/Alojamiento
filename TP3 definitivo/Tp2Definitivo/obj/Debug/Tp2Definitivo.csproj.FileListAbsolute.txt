@@ -1,0 +1,102 @@
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\bin\Debug\Tp2Definitivo.exe.config
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\bin\Debug\Tp2Definitivo.exe
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\bin\Debug\Tp2Definitivo.pdb
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.AssemblyReference.cache
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.CasasA.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.ClientesA.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.fCalendario.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.Form1.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.FormPrincipal.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.HotelesA.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.MostrarTicket.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.Properties.Resources.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.SacarAlojamiento.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.SacarReservacion.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.GenerateResource.cache
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.CoreCompileInputs.cache
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.exe
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.pdb
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.SuggestedBindingRedirects.cache
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FInicio.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FInicioSesion.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.FReservacion.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FUsuario.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.FTicket.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FImprimirTicket.resources
+E:\UTN\Laboratorio 2\Proyectos\TP3\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FNavegador.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\bin\Debug\Tp2Definitivo.exe.config
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\bin\Debug\Tp2Definitivo.exe
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\bin\Debug\Tp2Definitivo.pdb
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.AssemblyReference.cache
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.CasasA.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.ClientesA.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.FCalendario.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FImprimirTicket.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FInicio.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FInicioSesion.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FNavegador.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.Form1.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.FormPrincipal.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.HotelesA.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.MostrarTicket.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FUsuario.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.Properties.Resources.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.FReservacion.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.SacarAlojamiento.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.SacarReservacion.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.FTicket.resources
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.GenerateResource.cache
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.CoreCompileInputs.cache
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.exe
+D:\Escritorio\Nueva carpeta\Tp2Definitivo\obj\Debug\Tp2Definitivo.pdb
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\bin\Debug\Tp2Definitivo.exe.config
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\bin\Debug\Tp2Definitivo.exe
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\bin\Debug\Tp2Definitivo.pdb
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.AssemblyReference.cache
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.CasasA.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.ClientesA.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.FCalendario.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FImprimirTicket.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FInicio.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FInicioSesion.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FNavegador.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Form1.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.FormPrincipal.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.HotelesA.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.MostrarTicket.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FUsuario.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Properties.Resources.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.FReservacion.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.SacarAlojamiento.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.SacarReservacion.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.FTicket.resources
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.GenerateResource.cache
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.CoreCompileInputs.cache
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.exe
+D:\Escritorio\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.pdb
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.CasasA.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.ClientesA.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.FCalendario.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FImprimirTicket.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FInicio.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FInicioSesion.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FNavegador.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Form1.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.FormPrincipal.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.HotelesA.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.MostrarTicket.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FPropietario.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Formularios.FUsuario.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.Properties.Resources.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.FReservacion.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.SacarAlojamiento.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.SacarReservacion.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.FTicket.resources
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.GenerateResource.cache
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.csproj.CoreCompileInputs.cache
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.exe
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\obj\Debug\Tp2Definitivo.pdb
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\bin\Debug\Tp2Definitivo.exe.config
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\bin\Debug\Tp2Definitivo.exe
+C:\Users\TUP\Desktop\TP3 definitivo\TP3 definitivo\Tp2Definitivo\bin\Debug\Tp2Definitivo.pdb
